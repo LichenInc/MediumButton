@@ -112,3 +112,5 @@ function getCurrentSelection() {
 	return html;
 	
 }
+
+module.exports = MediumButton
