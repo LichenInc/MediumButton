@@ -1,0 +1,30 @@
+{
+  "name": "MediumButton",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [
+    "medium-editor",
+    "extension"
+  ],
+  "author": "Patrick Stillhart <patrick@stillhart.biz>",
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcs-/MediumButton.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arcs-/MediumButton/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "browserDependencies": {},
+  "main": "lib/main.js",
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "licenses": [],
+  "maintainers": [
+    "Patrick Stillhart <patrick@stillhart.biz>"
+  ],
+  "license": ""
+}
