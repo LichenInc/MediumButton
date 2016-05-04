@@ -18,7 +18,7 @@
   "dependencies": {},
   "devDependencies": {},
   "browserDependencies": {},
-  "main": "lib/main.js",
+  "main": "src/MediumButton.js",
   "engines": {
     "node": ">=0.4.0"
   },
